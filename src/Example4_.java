@@ -1,6 +1,5 @@
-import javax.swing.plaf.basic.BasicToolTipUI;
-
 public class Example4_ {
+	
 	public static void main(String[] args) {
 		int number =12321;
 		int tmp = number;
