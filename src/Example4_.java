@@ -18,7 +18,7 @@ public class Example4_ {
 		else 
 			System.out.println( number + "는 회문수가 아닙니다.");
 			
-	}result
+	}
 	
 	public static void main4_14(String[] args) {
 		int answer = (int)(Math.random()*100+1);
